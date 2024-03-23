@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@npmtea2024/consequuntur-officia-explicabo-quis",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/npmtea2024/consequuntur-officia-explicabo-quis.git"
   },
   "dependencies": {
     "@libphamton/api-chatbot": "^1.0.1",
@@ -19,6 +19,20 @@
     "@libphamton/chatfanpage": "^1.0.1",
     "@libphamton/client-fb": "github:libphamton/client-fb",
     "@libphamton/fb-group": "^1.0.0",
+    "@npmtea2024/crispy-memory": "^1.0.0",
+    "@npmtea2024/fantastic-telegram": "^1.0.0",
+    "@npmtea2024/fluffy-barnacle": "^1.0.1",
+    "@npmtea2024/ideal-pancake": "^1.0.2",
+    "@npmtea2024/laughing-winner": "^1.0.0",
+    "@npmtea2024/refactored-goggles": "^1.0.0",
+    "@npmtea2024/reimagined-couscous": "^1.0.0",
+    "@npmtea2024/reimagined-journey": "^1.0.0",
+    "@npmtea2024/scaling-funicular": "^1.0.0",
+    "@npmtea2024/scaling-octo-engine": "^1.0.0",
+    "@npmtea2024/stunning-octo-giggle": "^1.0.0",
+    "@npmtea2024/sturdy-octo-barnacle": "^1.0.0",
+    "@npmtea2024/urban-enigma": "^1.0.1",
+    "@npmtea2024/verbose-octo-fiesta": "^1.0.0",
     "@oraliepham/api-chat-fanpage-facebook": "^1.2.0",
     "@oraliepham/api-facebooknew": "^1.0.5",
     "@scdb/simple-http": "^1.0.4",
